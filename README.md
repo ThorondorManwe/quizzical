@@ -1,0 +1,1 @@
+The last solo project on the React Basics coourse at scrimba.com
