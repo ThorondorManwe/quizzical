@@ -68,3 +68,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+.correctaVerde {
+  background-color: #94D7A2;
+}
+
+.incorrectaRosa {
+  background-color: #F8BCBC;
+}
